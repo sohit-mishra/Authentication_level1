@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build files
+build/
+dist/
+out/
+*.tgz
+
+# Docker
+docker-compose.override.yml
+.DS_Store
